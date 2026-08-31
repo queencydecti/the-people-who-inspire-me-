@@ -1,0 +1,25 @@
+body {
+    background-color: #E1EFF6;
+    font-family: baskerville;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: #226595;
+    text-align: center;
+    font-family: bodoni;
+}
+
+h2 {
+    color: #226595;
+    text-align: center;
+    font-family: garamond;
+}
+
+img {
+    width: 250px;
+}
+
+
+
